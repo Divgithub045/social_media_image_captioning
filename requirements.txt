@@ -11,3 +11,4 @@ tqdm
 transformers
 torch
 streamlit   
+torchvision
