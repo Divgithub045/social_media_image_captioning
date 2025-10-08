@@ -1,0 +1,12 @@
+
+flickr/
+flickr8k/
+*.ipynb
+.venv/
+__pycache__/
+*.pyc
+.vscode/
+*.jpg
+*.png
+*.jpeg 
+assets/Image/
