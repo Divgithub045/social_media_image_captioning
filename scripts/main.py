@@ -36,8 +36,8 @@ print("Loading saved tokenizer and model configuration...")
 #assets\model\best_model_weights_flickr30.h5
 # File paths
 TOKENIZER_PATH = "assets/model/tokenizer_flickr30.pkl"
-CONFIG_PATH = "assets\\model\\model_config_flickr30.pkl"
-WEIGHTS_PATH = "assets\\model\\best_model_weights_flickr30.h5"
+CONFIG_PATH = "assets/model/model_config_flickr30.pkl"
+WEIGHTS_PATH = "assets/model/best_model_weights_flickr30.h5"
 
 # Load saved tokenizer - REQUIRED
 print(f"Loading tokenizer from {TOKENIZER_PATH}...")
