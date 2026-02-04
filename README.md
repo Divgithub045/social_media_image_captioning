@@ -6,15 +6,21 @@ AI-powered social media caption generator using a multimodal Transformer-based a
 
 ## Overview
 
-CaptionCraft generates context-aware and stylistically appropriate captions from images by combining visual features with a fine-tuned language model.
+CaptionCraft generates context-aware and stylistically appropriate captions from images by combining visual understanding with a fine-tuned language model.
 
 ---
 
 ## Demo (Prototype)
 
-▶️ **[View Demo Video](assets/demo.mp4)**
+<p align="center">
+  <img src="assets/demo1.png" alt="CaptionCraft Demo - Image Upload" width="700"/>
+</p>
 
-> Prototype showcasing image upload and caption generation.
+<p align="center">
+  <img src="assets/demo2.png" alt="CaptionCraft Demo - Generated Caption" width="700"/>
+</p>
+
+> Prototype showing image upload and generated caption output.
 
 ---
 
