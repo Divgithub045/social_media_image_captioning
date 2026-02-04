@@ -13,11 +13,11 @@ CaptionCraft generates context-aware and stylistically appropriate captions from
 ## Demo (Prototype)
 
 <p align="center">
-  <img src="assets/demo1.png" alt="CaptionCraft Demo - Image Upload" width="700"/>
+  <img src="assets/demo1.jpeg" alt="CaptionCraft Demo - Image Upload" width="700"/>
 </p>
 
 <p align="center">
-  <img src="assets/demo2.png" alt="CaptionCraft Demo - Generated Caption" width="700"/>
+  <img src="assets/demo2.jpeg" alt="CaptionCraft Demo - Generated Caption" width="700"/>
 </p>
 
 > Prototype showing image upload and generated caption output.
